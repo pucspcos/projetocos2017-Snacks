@@ -1,6 +1,7 @@
 # Nome do projeto : Snacks(지국)
 
-O projeto é um jogo no qual é possivel controlar o personagem na horizontal pelas teclas do mouse. Link:https://github.com/pucspcos/projetocos2017-Snacks/wiki/Dados-do-Projeto
+O projeto é um jogo no qual é possivel controlar o personagem na horizontal pelas teclas do mouse. 
+Link: https://github.com/pucspcos/projetocos2017-Snacks/wiki/Dados-do-Projeto
 
 # Nome compledo dos integrantes do projeto:
 
@@ -9,7 +10,7 @@ O projeto é um jogo no qual é possivel controlar o personagem na horizontal pe
 
 # Imagens do jogo:
 
-<img scr="https://raw.githubusercontent.com/pucspcos/projetocos2017-Snacks/Fotos/Jikook3.png"/>
+https://raw.githubusercontent.com/pucspcos/projetocos2017-Snacks/Fotos/Jikook3.png"
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
