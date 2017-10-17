@@ -9,7 +9,7 @@ O projeto é um jogo no qual é possivel controlar o personagem na horizontal pe
 
 # Imagens do jogo:
 
-<img scr="https://github.com/pucspcos/projetocos2017-Snacks/blob/Fotos/Jikook3.png"/>
+<img scr="https://github.com/pucspcos/projetocos2017-Snacks/blob/Fotos/Jikook3.png">
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
