@@ -14,4 +14,4 @@ Link: https://github.com/pucspcos/projetocos2017-Snacks/wiki/Dados-do-Projeto
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
-Colocar o link no Itch IO.
+Link: https://jakenootie.itch.io/jikook
