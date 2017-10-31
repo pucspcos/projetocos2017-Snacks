@@ -10,7 +10,7 @@ Link: https://github.com/pucspcos/projetocos2017-Snacks/wiki/Dados-do-Projeto
 
 # Imagens do jogo:
 
-https://raw.githubusercontent.com/pucspcos/projetocos2017-Snacks/Fotos/Jikook3.png"
+![DESCREVER A IMAGEM!](https://raw.githubusercontent.com/pucspcos/projetocos2017-Snacks/Fotos/Jikook3.png)
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
