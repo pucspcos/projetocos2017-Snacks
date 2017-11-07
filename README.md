@@ -1,6 +1,7 @@
 # Nome do projeto : Snacks(지국)
 
 O projeto é um jogo no qual é possivel controlar o personagem na horizontal utilizando o mouse.
+
 Link: https://github.com/pucspcos/projetocos2017-Snacks/wiki/Dados-do-Projeto
 
 # Nome compledo dos integrantes do projeto:
